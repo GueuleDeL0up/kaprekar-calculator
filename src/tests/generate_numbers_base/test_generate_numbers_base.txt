@@ -1,0 +1,2 @@
+>>> generate_numbers_base(digits=3, base=2)
+['100', '101', '110', '111']

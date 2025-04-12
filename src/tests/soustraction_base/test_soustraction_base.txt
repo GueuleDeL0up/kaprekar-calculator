@@ -1,0 +1,2 @@
+>>> soustraction_base(a="1101", b="1010", base=2)
+"11"

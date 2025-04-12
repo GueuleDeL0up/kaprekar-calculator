@@ -1,0 +1,2 @@
+>>> kaprekar_search_constants_and_cycles(digits=2, base=10)
+{'constants': [], 'cycles': [['27', '45', '63', '81', '9']]}

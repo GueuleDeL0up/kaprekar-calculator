@@ -1,0 +1,2 @@
+>>> kaprekar(number="123", base=10)
+['495']
